@@ -1,1 +1,3 @@
-function skillsMember()
+function skillsMember() {
+  // code goes here
+}()
